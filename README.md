@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adnan
 - 👀 I’m interested in AI, Web development and Machine Learning.
 - 🌱 I’m currently doing a UG on Comp Sci 
-- 💞️ I’d love to collab anywhere 
+- 😎 I’d love to collab anywhere 
 - 📫 How to reach me? insta: @iam_adnxn, X: @iam_adnxn
 - ⚡ Fun fact: You're awesome.
 
