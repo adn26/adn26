@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 AI | Web Dev | Problem-Solver<br>🐍 Mostly Python, sometimes JavaScript, always errors.<br>👨‍💻 Writes code. Breaks code. Fixes code. Repeats.<br>⌨️ Trying to LeetCode. LeetCode is trying to humble me.<br>💻 Competitive programming but competing with my own bugs.<br>📂 Currently: Building cool stuff, pretending to know what I'm doing.
+🚀 AI | Web Dev | Problem-Solver<br>🐍 Mostly Python, sometimes JavaScript, always errors.<br>👨‍💻 Writes code. Breaks code. Fixes code. Repeats.<br>⌨️ Trying to LeetCode.<br>💻 Competitive programming but competing with my own bugs.<br>📂 Currently: Building cool stuff.
 
 
 ## 🌐 Socials:
