@@ -22,6 +22,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=adn26&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+[![An image of @adn26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adn26)](https://holopin.io/@adn26)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=adn26&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
