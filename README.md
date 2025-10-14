@@ -1,5 +1,5 @@
-# 💫 About Me:
-🚀 AI/ML Enthusiast | Web Dev | Problem-Solver<br>🐍 Mostly Python, sometimes JavaScript, always errors.<br>👨‍💻 Writes code. Breaks code. Fixes code. Repeats.<br>⌨️ Trying to LeetCode.<br>💻 Competitive programming but competing with my own bugs.<br>📂 Currently: Building cool stuff.
+#  About Me:
+ - AI/ML Enthusiast | Web Dev | Problem-Solver<br>- Mostly Python, sometimes JavaScript, always errors.<br>- Writes code. Breaks code. Fixes code. Repeats.<br>- Trying to LeetCode.<br>- Competitive programming but competing with my own bugs.<br>- Currently: Building cool stuff.
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adn26&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### Quote of the Day~
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adn26&limit=5&theme=dark&combine_all_yearly_contributions=true)
