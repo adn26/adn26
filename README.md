@@ -1,5 +1,8 @@
 #  About Me:
-<br>- AI/ML Enthusiast | Web Dev | Problem-Solver<br> - Mostly Python, sometimes JavaScript, always errors.<br> - Writes code. Breaks code. Fixes code. Repeats.<br> - Trying to LeetCode.<br> - Competitive programming but competing with my own bugs.<br> - Currently: Building cool stuff.
+- Full-Stack Development | AI/ML 
+- Django, React, Machine Learning
+- Building practical, scalable projects
+- Currently: Building cool stuff.
 
 
 ## 🌐 Socials:
