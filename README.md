@@ -1,6 +1,6 @@
 #  About Me:
 - Full-Stack Development | AI/ML 
-- Django, React, Machine Learning
+- AI Engineering, Blockchain, Machine Learning
 - Building practical, scalable projects
 - Currently: Building cool stuff.
 
